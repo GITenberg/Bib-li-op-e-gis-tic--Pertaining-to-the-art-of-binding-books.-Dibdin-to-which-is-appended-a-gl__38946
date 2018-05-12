@@ -1,0 +1,33 @@
+_repo: Bib-li-op-e-gis-tic--Pertaining-to-the-art-of-binding-books.-Dibdin-to-which-is-appended-a-gl__38946
+_version: 0.1.0
+alternative_title: "Bibliopegistic (Pertaining to the art of binding books.—Dibdin)\r\
+  \nto which is appended a glossary of some terms used in the craft"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trow’s Printing and Bookbinding Company
+    aliases:
+    - Trow’s Printing & Bookbinding Co.
+    - Trow Printing and Book Binding Co.
+    - Trow’s Printing and Bookbinding Co.
+    gutenberg_agent_id: '45308'
+    url: http://www.gutenberg.org/2009/agents/45308
+description: ''
+gutenberg_issued: '2012-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38946'
+  lccn: '28007350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bookbinding'
+title: 'Bib-li-op-e-gis-tic (Pertaining to the art of binding books.—Dibdin)
+
+  to which is appended a glossary of some terms used in the craft'
+url: http://www.gutenberg.org/ebooks/38946
