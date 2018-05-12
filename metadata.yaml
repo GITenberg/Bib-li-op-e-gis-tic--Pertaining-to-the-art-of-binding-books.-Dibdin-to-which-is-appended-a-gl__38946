@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '45308'
     url: http://www.gutenberg.org/2009/agents/45308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38946#Bib-li-op-e-gis-tic--Pertaining-to-the-art-of-binding-books.-Dibdin-to-which-is-appended-a-gl_
 gutenberg_issued: '2012-02-21'
 gutenberg_type: Text
 identifiers:
